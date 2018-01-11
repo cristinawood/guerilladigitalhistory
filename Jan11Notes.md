@@ -1,4 +1,4 @@
-#First Class
+# First Class
 - Ottawa as a canvas for GDPH
 - 3 technologies:
   - projection mapping
