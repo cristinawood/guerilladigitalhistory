@@ -10,4 +10,8 @@
   - https://sketchfab.com/ check this out
   - Cristina - look at newspaper thing
 - deformation: portmanteau of deforming and performing
-- 
+
+## Important things
+- collaborative reading on Hypothesis
+- open notebooks devlogs on Github
+- making and breaking things in class and out
