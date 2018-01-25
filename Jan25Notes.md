@@ -20,3 +20,16 @@
  - What gravitas exists behind names, university, etc.! There is a coordinated attack on truth right now! Do we as historians, as digital historians want to be doing things that undermine those things? To be confronted with truth. 
 - What are the implications here? Where do I draw the line?
 - We protect ourselves in different ways too. How do we do that? Where are our lines?
+- Content has to do with this too:
+  - Projecting the names of people from 60s scoop on church? Not okay! 
+  - Does the public have to be involved in the intervention?
+  - Actors/vulnerable people definitely do! 
+
+## Aris
+- Same questions in a new technology might look really different. Have different answers! 
+- making sure your content is able to load up really fast! 
+- have to get into the game! 
+- alternate reality games: http://activehistory.ca/2012/05/tecumseh-lies-here/, http://www.ilovebees.co/.
+- What did we find? 
+  - Phone is your tardis
+  - affordances: big variety in terms of what you can offer ie. interactive conversation, 3D conversation! 
