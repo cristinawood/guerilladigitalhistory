@@ -33,3 +33,12 @@
 - What did we find? 
   - Phone is your tardis
   - affordances: big variety in terms of what you can offer ie. interactive conversation, 3D conversation! 
+- First thing after making a new game is to make a scene. 1 scene for all of the game, think of it like a giant container! 
+- Plaques are the way-points in your story, or locations where things might happen. To add those to your game, go under scene and hit plus button. 
+- Available anywhere button means people can click the thing from anywhere. Unclicking it means you can drop it in a point on the map. 
+- Can make zones of interaction much bigger!
+- Show map title means you could see on it on the map! 
+- To add media: Hit Media, upload files/images. 
+- Locks: these are conditional! Items to be collected, viewed a plaque, visited a webnotes, notes with tag, etc. 
+- Quests: can be locked, won't appear until he's got one Florin, player has a conversation with Fritz and the cow. How to add the quest, add to your scene. 
+- conversations: could have several that interlink! add web page under same place as scenes. 
