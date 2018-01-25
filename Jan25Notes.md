@@ -42,3 +42,8 @@
 - Locks: these are conditional! Items to be collected, viewed a plaque, visited a webnotes, notes with tag, etc. 
 - Quests: can be locked, won't appear until he's got one Florin, player has a conversation with Fritz and the cow. How to add the quest, add to your scene. 
 - conversations: could have several that interlink! add web page under same place as scenes. 
+
+## Twinery
+- website to help story-planning. 
+- double square brackets builds scenes and characters/new storyboard things
+- dry run on this site at least! 
