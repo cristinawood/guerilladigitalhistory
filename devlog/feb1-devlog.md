@@ -16,3 +16,4 @@ I came across Ralph Burton, an Ottawa artist who studied under A.Y. Jackson and 
 
 What I'd really be keen to do would be to add people, life, video into these, and bring them to life somewhere. Where I'm really stuck is **how** that would work, especially given what's on the land now. 
 
+Some videos from 1948, Ottawa's "disadvantaged neighbourhoods" which include Lebreton Flats: <iframe width="560" height="315" src="https://www.youtube.com/embed/uoR3TMQY30o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
