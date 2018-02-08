@@ -10,7 +10,7 @@ As part of our studio exercise, we worked through [ARIS](https://fielddaylab.org
 
 I began by creating a scene, which acts as the container for the game. While a complex game might include many scenes, and the possibility to unlock access to further scenes/levels, **Ottawa Cows** started with one. 
 
-![aris scene](guerilladigitalhistory/SceneARIS.jpg)
+![aris scene](www.github.com/cristinawood/guerilladigitalhistory/SceneARIS.jpg)
 
 Next, I added plaques, which act as way-points in the story, and these were individual cows, with images as added under Media (see image above) and storytelling elements: ![storytelling elements](guerilladigitalhistory/Screen Shot 2018-02-01 at 11.18.55 AM.png) 
 
