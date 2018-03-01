@@ -16,3 +16,7 @@
 - **OutWit** for web scraping
 - Time TVO show
 
+### Footage
+- look at British Pathé
+- videogrep for pattern searching
+
