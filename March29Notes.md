@@ -35,7 +35,10 @@
 - crowdsourcing
 - working with the public: they have lots of words, wanting to writing history with words!
 - ImpactHub Ottawa - a good place to go, accelerator for social stuff! 
-- 
+- text distortion, screen manipulation, video editing!
+- ephemeral nature! performance!
+- scoping! 
+- digital work is often invisible work!
 
 ## Notes on *Picturing Lebreton Flats*
 - needed to choose a title for the project when communicating with the Ottawa Archives
