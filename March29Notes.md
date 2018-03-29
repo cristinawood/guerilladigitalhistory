@@ -23,6 +23,18 @@
 - tech literacy questions
 - placeless digital stuff, history/story grounded in place
 - gender questions, gender in tech and representation
+- affordances vs. vision! 
+- avatars and representation! 
+- forking/customization
+- **storymap.js**
+- georectifying
+- sense of authenticity
+- coordinates sonified
+- consent
+- branding
+- crowdsourcing
+- working with the public: they have lots of words, wanting to writing history with words!
+- ImpactHub Ottawa - a good place to go, accelerator for social stuff! 
 - 
 
 ## Notes on *Picturing Lebreton Flats*
