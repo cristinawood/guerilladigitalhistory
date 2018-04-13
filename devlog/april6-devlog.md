@@ -17,4 +17,5 @@ After importing the photos and video clip (which I had screengrabbed from the NF
 The NFB footage came with time stamp and watermark, and I wanted to make sure I could take that out. 
 ![Screenshot of iMovie](https://img.ziggi.org/Zp9zawNq.png)
 
+![test screenshot](guerilladigitalhistory/images/Screen Shot 2018-04-12 at 8.11.11 PM.png)
 
