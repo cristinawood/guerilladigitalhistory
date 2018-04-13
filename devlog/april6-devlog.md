@@ -18,12 +18,12 @@ The NFB footage came with time stamp and watermark, and I wanted to make sure I 
 ![Screenshot of iMovie](https://img.ziggi.org/Zp9zawNq.png)
 
 I was able to crop the footage using the crop tool at the top, and could choose several options. The best was "Crop to fill" - it let me choose the best spot to focus in on. I also made sure to undo the "Ken Burns" setting on the paintings as I dropped those into the project, which was starting the image smaller and shifting it as it ended and I wanted that backdrop to stay still. 
-![crop demo] (https://img.ziggi.org/enVHh35q.png)
+![crop demo](https://img.ziggi.org/enVHh35q.png)
 
 To create the transparent effect, I had to make sure the NFB footage was on top of the Burton painting base, when it's called a "cutaway."
-![cutaway demo] (https://img.ziggi.org/RfTZc1W2.png)
+![cutaway demo](https://img.ziggi.org/RfTZc1W2.png)
 
 From there, I could play with the Opacity of the footage until it looked right - there was no consistent number or point, just what worked for the tone of each clip and painting together. It was pretty simple to play with that, though I imagine iMovie will be updated and change in future and it might get more complicated! Just sliding the little toggle back and forth until I found the sweet spot of overlap, playing and replaying to get it right.
-![opacity demo] (https://img.ziggi.org/MVllCeaV.png)
+![opacity demo](https://img.ziggi.org/MVllCeaV.png)
 
 One thing I noticed as I played through was that the end of one clip and transition into another was pretty abrupt, so I extended the time that the painting was displayed a bit beyond the footage, and had the footage fade for 2.5 seconds into the painting. This worked visually, and I find also evokes a sense of the expropriation and the life moving away from the area, leaving a still image of buildings behind. 
