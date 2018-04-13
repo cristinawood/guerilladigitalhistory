@@ -10,5 +10,11 @@ The paintings, in contrast with this movement and flux of the footage, are still
 
 I chose four paintings as a starting point, based on the ones I had access to online. The project may have been changed had the support strike not been on at the time of its creation, as I'd considered paying for the City Archives to scan all the Burton paintings they have, but wasn't sure about being reimbursed for that! I took the footage I could and chose the four most vibrant moments I could find! 
 
+I had access to iMovie on my laptop and decided to work with that. The process was fairly straightforward, but I'm including notes and screenshots for future reference. 
+
+After importing the photos and video clip (which I had screengrabbed from the NFB Archives via Screencastomatic plugin on Google Chrome) to the iMovie project, I could clip the footage and work with it. I figured out that Command + B was a shorter way to cut the clip when I hovered the mouse over the point I wanted, and could work with the footage that way. 
+
+![Screenshot of iMovie](https://img.ziggi.org/Zp9zawNq.png)
+
 
 
