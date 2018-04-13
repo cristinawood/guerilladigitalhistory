@@ -14,7 +14,7 @@ I had access to iMovie on my laptop and decided to work with that. The process w
 
 After importing the photos and video clip (which I had screengrabbed from the NFB Archives via Screencastomatic plugin on Google Chrome) to the iMovie project, I could clip the footage and work with it. I figured out that Command + B was a shorter way to cut the clip when I hovered the mouse over the point I wanted, and could work with the footage that way. 
 
+The NFB footage came with time stamp and watermark, and I wanted to make sure I could take that out. 
 ![Screenshot of iMovie](https://img.ziggi.org/Zp9zawNq.png)
-
 
 
