@@ -1,4 +1,4 @@
-##Projection Mapping: The hardware details
+## Projection Mapping: The hardware details
 
 I had the chance to take the show on the road - to the Flats! I had scoped the potential projection sites out a few days before and decided roughly on at least two: the white construction hoarding on Booth Street that covers the LRT station construction, and one of a few electrical boxes at the intersection of Booth Street and the parkway. 
 
