@@ -94,7 +94,8 @@ window.onclick = function(event) {
 }
 ```
 
-We had to render the site in Python to get that to show up, but it did! *** make note of how we did that***
+We had to render the site in Python to get that to show up, but it did! 
+By the way, that command is: ```python -m SimpleHTTPServer 8000```
 
 First, just with a header: ![just header modal window](https://img.ziggi.org/teLosqq6.png)
 
